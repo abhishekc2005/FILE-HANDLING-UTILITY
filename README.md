@@ -87,3 +87,7 @@ Conclusion
 This internship task was an excellent opportunity to reinforce my understanding of Java’s file handling capabilities while practicing clean code and user interaction. It provided hands-on experience with Java's standard I/O library and helped improve my skills in debugging, exception handling, and file manipulation.
 
 The project was completed using IntelliJ IDEA, and supported by Google, ChatGPT, and YouTube for learning and productivity. This task marks a strong step toward becoming a proficient backend and full-stack Java developer.
+
+OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/b8cd625d-feb5-40ea-b1ac-7529bce788d5)
