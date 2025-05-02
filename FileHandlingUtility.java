@@ -3,8 +3,6 @@ import java.util.Scanner;
 
 /*
  *Student Name-Abhishek Choudhary
- * Date-30/04/2025
- *
  *Internship Task 1 :
  * FileHandlingUtility
  * This Java program provides basic file operations:
